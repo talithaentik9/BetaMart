@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\bin\Debug\mydb15.accbd.accdb
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\bin\Debug\BetamartUKK.exe.config
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\bin\Debug\BetamartUKK.exe
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\bin\Debug\BetamartUKK.pdb
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\obj\Debug\BetamartUKK.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\obj\Debug\BetamartUKK.Form1.resources
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\obj\Debug\BetamartUKK.Properties.Resources.resources
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\obj\Debug\BetamartUKK.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\obj\Debug\BetamartUKK.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\obj\Debug\BetamartUKK.exe
+C:\Users\HP\source\repos\BetamartUKK\BetamartUKK\obj\Debug\BetamartUKK.pdb
